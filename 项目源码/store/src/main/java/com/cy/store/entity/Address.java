@@ -3,6 +3,7 @@ package com.cy.store.entity;
 import java.io.Serializable;
 
 /** 收货地址数据的实体类 */
+//这是个测试
 public class Address extends BaseEntity implements Serializable {
     private Integer aid;
     private Integer uid;
